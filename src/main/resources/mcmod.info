@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hugecake",
+  "name": "HugeCake",
+  "description": "A large large cake.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["licht"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
